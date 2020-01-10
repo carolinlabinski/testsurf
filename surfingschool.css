@@ -1,0 +1,16 @@
+/* #photo */
+.jumbotron{
+    /* display: flex;
+    justify-content: center; */
+    /* margin-right: auto; */
+    height: 500px;
+    background-image: url(surfer.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+ .tailles{
+     height: 70%;
+     object-fit: cover;
+ }
